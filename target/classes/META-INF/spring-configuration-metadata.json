@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "wxpay",
+      "type": "com.fj.service1.config.configuration.MyConfig",
+      "sourceType": "com.fj.service1.config.configuration.MyConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "wxpay.app-i-d",
+      "type": "java.lang.String",
+      "sourceType": "com.fj.service1.config.configuration.MyConfig"
+    },
+    {
+      "name": "wxpay.key",
+      "type": "java.lang.String",
+      "sourceType": "com.fj.service1.config.configuration.MyConfig"
+    },
+    {
+      "name": "wxpay.mch-i-d",
+      "type": "java.lang.String",
+      "sourceType": "com.fj.service1.config.configuration.MyConfig"
+    }
+  ],
+  "hints": []
+}
